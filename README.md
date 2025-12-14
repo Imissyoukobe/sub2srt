@@ -1,0 +1,2 @@
+# sub2srt
+一个python实现的sub字幕转换成srt字幕的转换器
